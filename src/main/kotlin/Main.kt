@@ -19,7 +19,7 @@ object Day1 {
             }
         }
 
-        println("elf count: ${elves.count()} elf carrying the most is carrying: ${elves.max()}")
+        println("elf carrying the most is carrying: ${elves.max()}")
     }
 
     fun part2() {
@@ -37,6 +37,6 @@ object Day1 {
             }
         }
         elves.sortDescending()
-        println("total of top 3: ${elves.take(3).sum()}")
+        println("top 3 elves are carrying: ${elves.take(3).sum()}")
     }
 }
