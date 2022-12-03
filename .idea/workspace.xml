@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301505fa-c859-4bba-9b26-0340c3a82f4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +36,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/jordan/Projects/advent2022/src/main/kotlin"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670024189726</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day 2 was dumb">
+      <created>1670025625857</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670025625857</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +105,7 @@
     <MESSAGE value="Day 1!" />
     <MESSAGE value="refactor day 1" />
     <MESSAGE value="Each day is its own executable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Each day is its own executable" />
+    <MESSAGE value="day 2 was dumb" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2 was dumb" />
   </component>
 </project>
