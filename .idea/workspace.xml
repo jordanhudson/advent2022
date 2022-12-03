@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301505fa-c859-4bba-9b26-0340c3a82f4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669873938711</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Each day is its own executable">
+      <created>1670024189726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670024189726</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,6 +91,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Day 1!" />
     <MESSAGE value="refactor day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor day 1" />
+    <MESSAGE value="Each day is its own executable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Each day is its own executable" />
   </component>
 </project>
