@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301505fa-c859-4bba-9b26-0340c3a82f4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
+    <list default="true" id="301505fa-c859-4bba-9b26-0340c3a82f4d" name="Changes" comment="day 3 was fun">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670025625857</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day 3 was fun">
+      <created>1670048364210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670048364210</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +113,7 @@
     <MESSAGE value="refactor day 1" />
     <MESSAGE value="Each day is its own executable" />
     <MESSAGE value="day 2 was dumb" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 2 was dumb" />
+    <MESSAGE value="day 3 was fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 was fun" />
   </component>
 </project>
